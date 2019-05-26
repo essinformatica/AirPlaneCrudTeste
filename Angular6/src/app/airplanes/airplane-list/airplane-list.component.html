@@ -1,0 +1,13 @@
+<table class="table table-hover">
+  <tr>
+    <td>Modelo</td>
+    <td>Quantidade Passageiros</td>
+    <td>Data Cadastro</td>
+  </tr>
+  <tr *ngFor="let air of service.listaAirplane">
+   <td (click)="populaForm(air)">[{{air.id}}]-{{air.modelo}}</td>
+   <td (click)="populaForm(air)"> {{air.qtdPassageiros}}</td>
+   <td (click)="populaForm(air)"> {{air.dtaCriacao | date: 'dd/MM/yyyy HH:mm'}}</td>
+   <td (click)="apagarRegistro(air.id)"><button class="btn btn-sms btn-outline-danger">X</button></td>
+  </tr>
+</table>

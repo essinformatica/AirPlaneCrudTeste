@@ -1,0 +1,14 @@
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\bin\Debug\netcoreapp2.1\AirPlaneCrudTeste.deps.json
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\bin\Debug\netcoreapp2.1\AirPlaneCrudTeste.runtimeconfig.json
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\bin\Debug\netcoreapp2.1\AirPlaneCrudTeste.runtimeconfig.dev.json
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\bin\Debug\netcoreapp2.1\AirPlaneCrudTeste.dll
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\bin\Debug\netcoreapp2.1\AirPlaneCrudTeste.pdb
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\obj\Debug\netcoreapp2.1\AirPlaneCrudTeste.csprojAssemblyReference.cache
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\obj\Debug\netcoreapp2.1\AirPlaneCrudTeste.csproj.CoreCompileInputs.cache
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\obj\Debug\netcoreapp2.1\AirPlaneCrudTeste.RazorAssemblyInfo.cache
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\obj\Debug\netcoreapp2.1\AirPlaneCrudTeste.RazorAssemblyInfo.cs
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\obj\Debug\netcoreapp2.1\AirPlaneCrudTeste.AssemblyInfoInputs.cache
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\obj\Debug\netcoreapp2.1\AirPlaneCrudTeste.AssemblyInfo.cs
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\obj\Debug\netcoreapp2.1\AirPlaneCrudTeste.RazorTargetAssemblyInfo.cache
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\obj\Debug\netcoreapp2.1\AirPlaneCrudTeste.dll
+C:\projetos\AirPlaneCrudTeste\AirPlaneCrudTeste\AirPlaneCrudTeste\obj\Debug\netcoreapp2.1\AirPlaneCrudTeste.pdb
